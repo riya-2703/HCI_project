@@ -29,15 +29,6 @@ This project was developed as part of a **Human–Computer Interaction (HCI)** c
 
 ---
 
-## Project Structure
-smart_skimming/
-├── backend/ # Node.js server
-├── frontend/ # React frontend
-└── README.md
-
-
----
-
 ## Setup Instructions
 
 ### Prerequisites
