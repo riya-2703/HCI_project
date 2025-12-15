@@ -70,6 +70,6 @@ http://localhost:5173
 -Explore skimming, freeze, and re-reading behaviors
 ```
 
-### Author
+## Author
 -Riya Nadagire
 -MS Computer Science, Stony Brook University
