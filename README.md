@@ -71,5 +71,5 @@ http://localhost:5173
 ```
 
 ## Author
--Riya Nadagire
+-Riya Nadagire,
 -MS Computer Science, Stony Brook University
