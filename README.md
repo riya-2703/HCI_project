@@ -46,9 +46,11 @@ node server.js
 ```
 
 ### Frontend Setup
+```bash
 cd frontend
 npm install
 npm run dev
+```
 
 ### Open browser at 
 http://localhost:5173
@@ -57,17 +59,17 @@ http://localhost:5173
 ### Usage
 ```bash
 
-Start backend and frontend servers
+-Start backend and frontend servers
 
-Open the app in the browser
+-Open the app in the browser
 
-Begin reading the displayed text
+-Begin reading the displayed text
 
-Observe real-time gaze mode changes and live metrics
+-Observe real-time gaze mode changes and live metrics
 
-Explore skimming, freeze, and re-reading behaviors
+-Explore skimming, freeze, and re-reading behaviors
 ```
 
 ### Author
-Riya Nadagire
-MS Computer Science, Stony Brook University
+-Riya Nadagire
+-MS Computer Science, Stony Brook University
